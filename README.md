@@ -65,14 +65,12 @@ kahnTopSort(dag, 4);
 ```
 
 ## Applications  
-- **A* Search**: AI pathfinding (e.g., game development, GPS navigation).  
-- **Kruskal’s Algorithm**: Network design (e.g., computer networks, transport systems).  
-- **Kahn’s Algorithm**: Task scheduling (e.g., project management, compiler design).  
-
-## Contributions  
-Contributions, optimizations, and improvements are welcome! Feel free to fork this repository and submit pull requests.
+- **A* Search**: AI pathfinding (ex. game development, GPS navigation).  
+- **Kruskal’s Algorithm**: Network design (ex. computer networks, transport systems).  
+- **Kahn’s Algorithm**: Task scheduling (ex. project management, compiler design).  
 
 Output:
+
 A* Path: [A, B, D]
 
 Kruskal MST: [Edge@764c12b6, Edge@c387f44, Edge@4e0e2f2a]
